@@ -3,11 +3,13 @@ bigCC
 
 ##Introduction
 
-An Android app used for searching bike shares in Montreal and implementing other advanced function.Our team prepared
+An Android app used for searching bike shares in Montreal and implementing other advanced function.
 
-it for the competetion held by Trend Micro.It's an alpha version and a webservice server is needed(not included in 
+Our team prepared it for the competetion held by Trend Micro.It's an alpha version and a webservice 
 
-this project).Thus it's just an example(maybe not a good one)to show that how to develop app based on google-map.
+server is needed(not included in this project).Thus it's just an example(maybe not a good one)to show 
+
+that how to develop app based on google-map.
 
 ##Existing problems:
 
